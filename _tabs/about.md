@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About
-
 Hello, I'm Echo Noctis. Welcome to my corner of the digital universe, where midnight thoughts meet morning coffee, and where serious reflections occasionally bump into humor.
 
 ## Why This Space Exists

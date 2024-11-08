@@ -6,7 +6,7 @@ tags: [civic duty, democracy, personal]
 author: Echo Noctis
 ---
 
-![I Voted Sticker](/assets/img/posts/2024/iVoted.png)
+![I Voted Sticker](/assets/images/posts/2024/november/iVoted.png)
 *A small symbol of a profound right*
 
 Two weeks ago, in the quiet of my home, I marked my mail-in ballot. Today, on Election Day, I find myself swimming in a sea of emotions. Hope and anxiety dance together like old friends – familiar partners in this civic ritual.

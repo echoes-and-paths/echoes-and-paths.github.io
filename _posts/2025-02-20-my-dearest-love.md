@@ -1,3 +1,11 @@
+---
+title: My Dearest Love...
+date: 2025-02-20 00:00:00 -0800
+categories: []
+tags: []
+author: Echo Noctis
+---
+
 # My Dearest Love,
 
 Permit me, if you will, to unburden my soul through these humble lines, for words are all that remain to me when my arms dare not reach for you, when my lips, once so familiar with yours, now tremble with longing and hesitation. I find myself a man torn asunder, grappling with an emptiness that consumes me as a relentless tide overtakes the shore. And yet, I know not how to still the tempest within, save by laying bare my heart to you, as I have ever done.
